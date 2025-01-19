@@ -52,4 +52,15 @@ footer {
   color: #f4f7fa;
   text-align: center;
   padding: 1rem;
+  font-size: 14px;
+}
+
+footer a {
+  color: #00c6bc;
+  text-decoration: none;
+}
+
+footer a:hover {
+  color: #028b85;
+  text-decoration: none;
 }
